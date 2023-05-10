@@ -1,2 +1,0 @@
-const baseUrl ="";
-const userEndPoint ="";
